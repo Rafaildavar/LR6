@@ -33,6 +33,6 @@ Cлияние в ветку master
 Ветка для отчета
 ![](https://github.com/Rafaildavar/LR6/blob/report/screenshot/Снимок%20экрана%202023-11-16%20в%2013.33.35.png)
 ## История операций
-![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20225258.png)
+![](https://github.com/Rafaildavar/LR6/blob/report/screenshot/Снимок%20экрана%202023-11-16%20в%2013.45.59.png)
 ## Вывод
 Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием
